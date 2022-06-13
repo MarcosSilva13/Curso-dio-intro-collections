@@ -1,3 +1,2 @@
 # Curso Introdutório Collections Java
-Resolução dos exercícios propostos do: CURSO INTRODUTÓRIO COLLECTIONS FRAMEWORK JAVA - DIO. <br/>
-Ainda em andamento ...
+Resolução dos exercícios propostos do: CURSO INTRODUTÓRIO COLLECTIONS FRAMEWORK JAVA - DIO.
